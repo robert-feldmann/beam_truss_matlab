@@ -70,3 +70,4 @@ The code should be fairly well documented. If you find a bug, please open an iss
 
 [2] Shabana, Ahmed A. Dynamics of multibody systems. Cambridge university press, 2020.
 
+[![View Beam Truss on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://de.mathworks.com/matlabcentral/fileexchange/126420-beam-truss)
