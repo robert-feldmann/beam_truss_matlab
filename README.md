@@ -1,11 +1,4 @@
-
-
-
-
-
 # Beam Truss Model
-
-<video src="https://github.com/robert-feldmann/beam_truss_matlab/blob/0cef33a12577b4457d95470667c2be1660338d37/234817_1348_mode_4.avi"></video>
 
 A MATLAB code to generate the mass and stiffnes matrices for a beam truss structure and conduct a modal analysis. The beam model is based on the Euler-Bernoulli assumptions. 
 
@@ -16,9 +9,16 @@ A MATLAB code to generate the mass and stiffnes matrices for a beam truss struct
 - **dynamic visualization of the modes in a video**
 - additional inertia of connection elements is accounted for
 
+<video src="https://user-images.githubusercontent.com/121583390/225946434-ba5fbfa8-a669-41bf-bdda-a836b786e69b.mp4" controls="controls" autoplay loop>
+</video>
+
+
 ### How to use
 
 **1. Setup**
+<p align="center">
+<img src="https://user-images.githubusercontent.com/121583390/225952612-79bbb595-7614-460f-b84e-7864a2766d91.jpg" width="400">
+</p>
 
 Specify the beam truss using the matrices `P` and `Beam`.
 
